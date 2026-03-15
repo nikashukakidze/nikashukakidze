@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nikashukakidze
-- 👀 I’m interested in coding, game development, cybersecurity
+- 👀 I’m interested in coding, game development, system adminsrator.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various projects in games.
 - 📫 How to reach me Nikashukakidze753@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i love football
 
 <!---
